@@ -1,5 +1,14 @@
 # microbits
 
+This repo is a collection of projects that I use to teach programming in my high school courses.  
+I plan to create a folder in this repo for each project. Since github repos can be challenging to organize, I created this repo to guide visitors to find projects that will suit their needs. 
+
+## Outline of README
+- Overview for how I use microbits
+- CS Topics and the Actvities I use for each topic
+- Other Projects that I use in class but don't directly go with a topic
+- Future Projects that I hope to incorporate in my courses
+  
 ## Overview  
 As a high school computer science teacher, I really enjoy using microbits in my classes.  They offer lots of opportunities for students to learn programming using physical computing.  
 Microbits have buttons, tons of sensors, leds, a small speaker, radio transmitter and reciever, accelerometer...   
