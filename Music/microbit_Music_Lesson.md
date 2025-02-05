@@ -1,6 +1,6 @@
 # Music Lesson  
 
-In this lesson, I have students go through 3 of the projects that are provided by microbit.org. 
+In this lesson, I have students go through 3 of the projects that are provided by microbit.org   
 I usually walk them through the lesson as a group.  It is more fun that way.  
 Then I have them make their own song or try to recreate a famous song on the microbit.  
 Before I leave them alone to make their song, I go through the Making Music with Micro:Bit website.  
