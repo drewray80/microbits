@@ -5,7 +5,7 @@ I use python as the programming lanuage for my class, so we use the microbit pyt
 https://python.microbit.org/v/3  
 
 ## Examples  
-I also attached some examples of student code from this activity in the repo.  
+I also attached some good examples of student code from this activity in the repo.  
 
 ## Assignment Instructions  
 These are the instructions that I post with in my Google Classroom assignment:
@@ -21,4 +21,4 @@ During the lesson, I primarily give verbal instructions and live code examples i
 I like to take student suggestions, so we can create a program together during class before they try on their own.  
 
 ## Major Grade  
-At the end of the Loops Unit, I give them the Loops Major Grade assignment.  The Loops Unit includes my Colabs on While Loops and For Loops, the microbit LEDs lesson, microbit Music lesson, and the microbit Magic-8 Ball lesson. Several of those programs this year were impressive to me.  They incorporated lights and music.  
+At the end of the Loops Unit, I give them the Loops Major Grade assignment.  The Loops Unit includes my Colabs on While Loops and For Loops, the microbit LEDs lesson, microbit Music lesson, and the microbit Magic-8 Ball lesson. Several of those programs this year were impressive to me.  They incorporated lights and music.  The examples are some of the better programs (they are not all that impressive).  
