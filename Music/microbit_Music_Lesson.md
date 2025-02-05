@@ -5,6 +5,7 @@ I usually walk them through the lesson as a group.  It is more fun that way.
 Then I have them make their own song or try to recreate a famous song on the microbit.  
 Before I leave them alone to make their song, I go through the Making Music with Micro:Bit website.  
 I included a couple of the better examples of the student programs.  
+(After the Music Lesson, we go through the microbit LEDs Lesson.)  
 
 ## Assignment Instructions  
 Using the micro:bit Python Editor, try the 3 examples below.    
