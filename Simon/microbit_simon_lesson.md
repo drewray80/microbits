@@ -2,7 +2,7 @@
 
 I don't really have a lesson for this game.  
 Basically, we just live code together as a class to make a clone of the Simon game from the 80s.  
-![image](https://github.com/user-attachments/assets/7ed9ba6c-d51c-454c-9e61-19dd1550ecba)
+![image](simon_image.avif)
 
 I usually lead the lesson/activity Socratically, asking questions and calling on students.  
 When they finish, they have a little game that has room for improvements, if they want to make it better.  
