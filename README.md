@@ -38,7 +38,18 @@ These are some other activities and projects that I have done that I don't direc
 
 ## Future Projects  
 I would also like to do these projects, but haven't yet.  
-- Temp/Light/Sound Data Logger: collect environmental data to analyze
-- Compass
-- Treasure Hunt
-- micro:bit Pet (Tamagotchi)
+I will end up adjusting this projects, but the links below provide a general guide.  
+
+- Temp/Light/Sound Data Logger: collect environmental data to analyze  
+  https://microbit.org/get-started/user-guide/data-logging/  
+  https://microbit.org/projects/make-it-code-it/python-wireless-data-logger/  
+  https://microbit.org/projects/make-it-code-it/maxmin-temperature-logger/
+  
+- Compass: for a possible outdoor orienteering activity  
+  https://microbit.org/projects/make-it-code-it/compass-north/?editor=python  
+  
+- Treasure Hunt: might be a good activity to get out of the classroom  
+  https://microbit.org/projects/make-it-code-it/treasure-hunt/?editor=python
+  
+- micro:bit Pet (Tamagotchi)  
+  https://microbit.org/projects/make-it-code-it/microbit-pet/?editor=python
