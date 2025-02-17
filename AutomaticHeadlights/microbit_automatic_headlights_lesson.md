@@ -23,6 +23,7 @@ We talk briefly about how object oriented stucture works.
 We find the function we are looking for to set the leds by rgb (set_rgb_led_by_index(index, red, green, blue)).  
 We discuss what code we need to write into our microbit main.py to call that function, so we can control the led colors.  
 Then we started trying to get one of the front headlights to change color.  
+I let them help me figure out what the 'index' parameter in the function is referencing, and that we need to use the LEDs class to get that index.  
 
 I have them code with me as we trouble shoot getting the code correct to call the function.  
 I get them to the point that one of their RVR lights has changed color.  
