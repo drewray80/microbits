@@ -26,6 +26,7 @@ Then we started trying to get one of the front headlights to change color.
 
 I have them code with me as we trouble shoot getting the code correct to call the function.  
 I get them to the point that one of their RVR lights has changed color.  
+I stop coding with them when we get to point that we have code like the headlight_starter.py
 
 After that, I point out the Light Level section in the References of the editor and the read_light_level function.  
 Then I let them work with a partner to figure out how to get the RVR to have automatic head lights. 
