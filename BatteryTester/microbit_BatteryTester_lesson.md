@@ -17,14 +17,14 @@ https://docs.google.com/document/d/15Xry9jFsIzHHG7RpaIomLodl9pBjTiKDvtjkd227b7Y/
 
 - We start by discussing what we will doing. Testing voltage to see if a battery is good. I explain that batteries still have volt even if they are dead. We say that less than 1.25 volts is dead.  
 - We talk about the GPIO pins and connect our alligator clips. This allows for a discussion about GPIO, electricity, ground...    
-- Then we jump in an start testing and problem solving. We create a on_button_A pressed block with a show number block inside. We insert analog_read_pin P0 into the show number.
+- Then we jump in an start testing and problem solving. We create a on_button_A pressed block with a show number block inside. We insert analog_read_pin P0 into the show number.  
 ![image](battery_tester1.png)
 
 - This will read out will give us a number that is way too large. This sets up a discussion about voltage, and what the GPIO pins is actually collecting.
-- This challenge leads us to have a need to create a variable, so we can add and equation to the code.
+- This challenge leads us to have a need to create a variable, so we can add and equation to the code.  
 ![image](battery_tester2.png)
 
-- Once we get our equation and output working correctly, we test several batteries.
+- Once we get our equation and output working correctly, we test several batteries.  
 ![image](battery_tester3.png)
 
 
