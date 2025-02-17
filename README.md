@@ -44,7 +44,7 @@ These are the programming topics and the corrisponding microbit activity that I 
 
 ## Other Projects
 These are some other activities and projects that I have done that I don't directly tie to a unit.  Some of them are extra lessons when I want to have an extra activity.  And some I use in my Intermediate Programming course.  
-- Simon - like the game from the 80s where you match the pattern and the pattern gets increasingly longer
+- Simon - like the game from the 80s where you match the pattern and the pattern gets increasingly longer  
   I added a folder for Simon.
   
 - RC Car - using 2 microbits that communicate using radio signals to turn a Sphero RVR+ into an rc car.  
