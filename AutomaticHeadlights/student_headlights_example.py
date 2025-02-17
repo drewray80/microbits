@@ -16,5 +16,5 @@ while True:
         sphero.RVRLed.set_rgb_led_by_index(sphero.LEDs.LEFT_HEADLIGHT,0,0,0)
         sphero.RVRLed.set_rgb_led_by_index(sphero.LEDs.RIGHT_BRAKELIGHT,0,0,0)
         sphero.RVRLed.set_rgb_led_by_index(sphero.LEDs.LEFT_BRAKELIGHT,0,0,0)
-        sphero.RVRLed.set_rgb_led_by_index(sphero.LEDs.LEFT_STATUS,0,0,0)
-        sphero.RVRLed.set_rgb_led_by_index(sphero.LEDs.RIGHT_STATUS,0,0,0)
+        sphero.RVRLed.set_rgb_led_by_index(sphero.LEDs.LEFT_STATUS,134,1,175)
+        sphero.RVRLed.set_rgb_led_by_index(sphero.LEDs.RIGHT_STATUS,134,1,175)
