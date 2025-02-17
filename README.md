@@ -19,21 +19,35 @@ This repo was created to share how I use microbits in my courses to other teache
 ## {Topics: Activities}
 I use microbits throughout my Introduction to Programming course as well as in my Intermediate Programming course.  
 These are the programming topics and the corrisponding microbit activity that I use:  
-- Basics (variables, math equations, inputs...): Battery Tester  
-- Conditionals (if/elif/else): If Battery Tester, Rock/Paper/Scissors, Fireflies, Level  
+- Basics (variables, math equations, inputs...): Battery Tester
+  I have a folder in this repo with info about the Battery Tester  
+- Conditionals (if/elif/else): If Battery Tester, Rock/Paper/Scissors, Fireflies, Level
+  I have info about the If Battery Tester in the BatteryTester folder.
+  https://makecode.microbit.org/projects/rock-paper-scissors-v2
+  https://microbit.org/projects/make-it-code-it/fireflies/
+  https://makecode.microbit.org/projects/level  
 - While Loops: Magic 8 Ball
-- For Loops: Music  
+  I added a folder for Magic 8 Ball.  
+- For Loops: Music
+  I added a folder for Music.  
 - Nested For Loops: LEDs
+  I added a folder for LEDs.  
 - Functions: functions would be great, but I do other activities (turtle, Caesar Cypher, GUI)
-- Modules: Automatic Headlights for Sphero RVR+  
+- Modules: Automatic Headlights for Sphero RVR+
+  I added a folder for Automatic Headlights.  
 
 ## Other Projects
 These are some other activities and projects that I have done that I don't directly tie to a unit.  Some of them are extra lessons when I want to have an extra activity.  And some I use in my Intermediate Programming course.  
 - Simon - like the game from the 80s where you match the pattern and the pattern gets increasingly longer
+  I added a folder for Simon.  
 - RC Car - using 2 microbits that communicate using radio signals to turn a Sphero RVR+ into an rc car.
+  I hope to add a folder about the RC Car later. This activity is similar to the link below, but we use the python editor and the sphero.py file as a module.
+  https://www.instructables.com/Microbit-Remote-Control-to-Drive-Sphero-RVR/  
 - Tilt Game - using the accelerometer to move the player LED on top of the food LED
-- Banana Keyboard - we use students as the keyboard instead of bananas  
+- Banana Keyboard - we use students as the keyboard instead of bananas
+  https://makecode.microbit.org/projects/banana-keyboard/make  
 - Flappy Bird
+  https://makecode.microbit.org/projects/crashy-bird  
 - I also have some IoT kits from Elecfreaks that we use periodically 
 
 ## Future Projects  
